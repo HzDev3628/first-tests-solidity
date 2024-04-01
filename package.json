@@ -1,0 +1,23 @@
+{
+  "name": "first-tests-solidity",
+  "version": "0.0.1",
+  "description": "Learning solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HzDev3628/first-tests-solidity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HzDev3628/first-tests-solidity/issues"
+  },
+  "homepage": "https://github.com/HzDev3628/first-tests-solidity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  }
+}
